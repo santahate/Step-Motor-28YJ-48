@@ -1,0 +1,1 @@
+f4_stepmotor configuration/\startup_stm32f417xx.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/arm/startup_stm32f417xx.s
